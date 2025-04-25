@@ -48,6 +48,6 @@ Uses `flutter_bloc` for managing application state with:
 
 
 
-https://github.com/user-attachments/assets/d502357c-ecad-4dda-a677-ed7cf369995c
 
+![Enregistrementdelcran2025-04-25112050-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1a9db982-c19a-43c5-94aa-14aa66881455)
 
